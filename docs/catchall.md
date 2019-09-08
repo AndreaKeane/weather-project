@@ -5,7 +5,8 @@ A place to record thoughts, ideas and notes as the project grows.
 ## Tools \& Learning Opportunities  
 
 Jinja: Templating responses  
-NoSQL: Requests return JSON
+NoSQL: Requests return JSON objects. Instead of parsing into SQL, keep as JSON
+* Starting with MySQL DB to "cache" request-reponse pairs  
 
 
 ## Reccomendations  
