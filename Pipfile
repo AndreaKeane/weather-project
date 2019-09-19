@@ -5,11 +5,15 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
+mysqlclient = "*"
 
 [packages]
 requests = "*"
 datetime = "*"
-sys = "*"
+sqlalchemy = "*"
+mysqlclient = "*"
+mysql = "*"
+mysql-connector = "*"
 
 [requires]
 python_version = "3.7"
